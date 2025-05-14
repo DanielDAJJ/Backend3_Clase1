@@ -1,0 +1,1 @@
+process.send('Hijo listo para recibir mensajes');
